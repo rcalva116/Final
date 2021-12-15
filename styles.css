@@ -64,7 +64,7 @@ figure.main-image {
 
 @media all and (min-width: 50px) {
 figure.section-image {
-  margin-left: 200px; 
+  margin-left: 300px; 
   margin-bottom: 0px;
   max-width: 350px;  
   float: center;
@@ -88,7 +88,7 @@ nav ul {
 @media all and (min-width: 376px) {
   nav ul {
      display: flex; 
-     justify-content: space-around; 
+     justify-content: space-evenly; 
      gap: 30px; 
   }
 }
