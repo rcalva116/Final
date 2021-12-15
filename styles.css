@@ -62,7 +62,7 @@ figure.main-image {
   color: white; 
 }
 
-@media all and (min-width: 350px) {
+@media all and (min-width: 500px) {
 figure.section-image {
   margin-left: 300px; 
   margin-bottom: 0px;
