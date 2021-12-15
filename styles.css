@@ -62,7 +62,7 @@ figure.main-image {
   color: white; 
 }
 
-@media all and (min-width: 50px) {
+@media all and (min-width: 350px) {
 figure.section-image {
   margin-left: 300px; 
   margin-bottom: 0px;
@@ -89,6 +89,7 @@ nav ul {
   nav ul {
      display: flex; 
      justify-content: space-evenly; 
+     flex-wrap: wrap
      gap: 30px; 
   }
 }
